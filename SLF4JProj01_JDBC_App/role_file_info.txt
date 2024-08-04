@@ -1,0 +1,13 @@
+DEBUG-->main--->1023--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,313 
+DEBUG-->main--->1025--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,315 
+DEBUG-->main--->1027--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,317 
+DEBUG-->main--->1027--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,317 
+DEBUG-->main--->1029--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,319 
+DEBUG-->main--->1029--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,319 
+DEBUG-->main--->1029--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,319 
+DEBUG-->main--->1030--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..--->2024-07-23 16:09:43,320 
+DEBUG-->main--->1030--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>ResultSet Data is Processed--->2024-07-23 16:09:43,320 
+DEBUG-->main--->1030--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Closig The JDBC Objs--->2024-07-23 16:09:43,320 
+DEBUG-->main--->1030--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>ResultSet Obj is Closed..--->2024-07-23 16:09:43,320 
+DEBUG-->main--->1030--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Statement Obj is Closed..--->2024-07-23 16:09:43,320 
+DEBUG-->main--->1032--->org.alok.jdbc.JdbcAppTest--->org.alok.jdbc.JdbcAppTest::>Connection is disconnected--->2024-07-23 16:09:43,322 

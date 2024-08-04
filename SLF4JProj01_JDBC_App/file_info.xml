@@ -1,0 +1,96 @@
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175006" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::> Main method start()...]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175262" level="INFO" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Driver Class Loaded Successfully]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175811" level="INFO" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Driver Connection Successfully]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175881" level="INFO" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Statement obj ready to Execute The SQL Query]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175944" level="INFO" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>ResultSet is keep the reuslt obj..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175954" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175955" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175955" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175955" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175955" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175955" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175956" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175956" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175956" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175956" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Data Retrieved From ResultSet obj usig getString(-)..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>ResultSet Data is Processed]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Closig The JDBC Objs]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>ResultSet Obj is Closed..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175957" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Statement Obj is Closed..]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="org.alok.jdbc.JdbcAppTest" timestamp="1721730175958" level="DEBUG" thread="main">
+<log4j:message><![CDATA[org.alok.jdbc.JdbcAppTest::>Connection is disconnected]]></log4j:message>
+</log4j:event>
+
